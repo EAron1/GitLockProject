@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C8E10692-4950-9D52-67CC-3D8647334E9C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GitLockProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
